@@ -1,3 +1,4 @@
+#by judy 20240825
 import pyautogui
 import pygetwindow as gw
 import time
